@@ -5,7 +5,7 @@
 
 ## I'm a Python Developer, Flutter App developer, and Machine Learning Student!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers 
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -47,18 +47,16 @@
 
 
 
-<details>
+<!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--START_SECTION:activity-->
 1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 2. 🎉 Merged PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 3. 💪 Opened PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 4. 🎉 Merged PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-<!--END_SECTION:activity-->
 
-</details>
+</details> -->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
