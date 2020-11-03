@@ -46,8 +46,6 @@
 <!-- 
 <img class="lazy2" src="https://img.pngio.com/django-web-development-web-framework-python-software-framework-django-png-728_550.jpg" data-original="https://img.pngio.com/django-web-development-web-framework-python-software-framework-django-png-728_550.jpg" alt="Django Web development Web framework Python Software framework ..."> -->
 
-<img alt="Flutter icon" src="https://img.icons8.com/color/452/flutter.png" lazy="loaded">
-
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
