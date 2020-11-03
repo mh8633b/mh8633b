@@ -58,14 +58,14 @@
 
 </details> -->
 
-<details>
+<!-- <details> -->
   <!-- <summary>:zap: GitHub Stats</summary> -->
 ### GitHub Stats:
 
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=monybluex&show_icons=true&hide_border=true" />
 
-</details>
+<!-- </details> -->
 
 [website]: https://muneebportfolio.herokuapp.com
 <!-- [course]: http://vsCodeHero.com -->
