@@ -39,11 +39,14 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Firebase" width="26px" src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" />
 <img align="left" alt="Firebase" width="26px" src="https://img.pngio.com/django-web-development-web-framework-python-software-framework-django-png-728_550.jpg" />
+<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/452/flutter.png" />
+
 <br />
 <br />
 <!-- 
 <img class="lazy2" src="https://img.pngio.com/django-web-development-web-framework-python-software-framework-django-png-728_550.jpg" data-original="https://img.pngio.com/django-web-development-web-framework-python-software-framework-django-png-728_550.jpg" alt="Django Web development Web framework Python Software framework ..."> -->
 
+<img alt="Flutter icon" src="https://img.icons8.com/color/452/flutter.png" lazy="loaded">
 
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
