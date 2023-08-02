@@ -1,80 +1,36 @@
-### Hi there, I'm Muneeb ul Hassan [website] 👋
-
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://muneebportfolio.herokuapp.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
-
-## I'm a Python Developer, and Data Engineer Student!!
-
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other Developers 
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Create things that lives in the Binary Format 
+# 💫 About Me:
+🔭 I’m currently working on content creation<br>👯 I’m looking to collaborate on software testing-related content creation<br>🤝 I’m looking for help with developing a chrome extension that can find Playwright locators<br>🌱 I’m currently learning chrome extension manifest v3 & flutter<br>💬 Ask me about automation testing<br>⚡ Fun fact - I am lazy but smart
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/UunqzYFHPX) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ortonikc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ortoni) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@letcode) 
 
-### Connect with me:
+[![](https://visitcount.itsvg.in/api?id=ortonikc&icon=6&color=0)](https://visitcount.itsvg.in)
+# ▶️ Recent videos:
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Find broken images | Playwright Typescript  - Part 100](https://ytcards.demolab.com/?id=4G8c7BwHY5s&title=Find+broken+images+%7C+Playwright+Typescript++-+Part+100&lang=en&timestamp=1689615598&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "Find broken images | Playwright Typescript  - Part 100")](https://www.youtube.com/watch?v=4G8c7BwHY5s)
+[![Better assertion less failures | Selenium vs Playwright - Part 3](https://ytcards.demolab.com/?id=FqKLY_2iepc&title=Better+assertion+less+failures+%7C+Selenium+vs+Playwright+-+Part+3&lang=en&timestamp=1688460162&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "Better assertion less failures | Selenium vs Playwright - Part 3")](https://www.youtube.com/watch?v=FqKLY_2iepc)
+[![There is no Element Click Intercepted Exception | Selenium VS Playwright - Part 2](https://ytcards.demolab.com/?id=49A0m5rwm9w&title=There+is+no+Element+Click+Intercepted+Exception+%7C+Selenium+VS+Playwright+-+Part+2&lang=en&timestamp=1688405234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "There is no Element Click Intercepted Exception | Selenium VS Playwright - Part 2")](https://www.youtube.com/watch?v=49A0m5rwm9w)
+[![There is no Stale Element Reference Exception | Selenium VS Playwright - Part 1](https://ytcards.demolab.com/?id=WkZAWuRqlVw&title=There+is+no+Stale+Element+Reference+Exception+%7C+Selenium+VS+Playwright+-+Part+1&lang=en&timestamp=1688379341&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "There is no Stale Element Reference Exception | Selenium VS Playwright - Part 1")](https://www.youtube.com/watch?v=WkZAWuRqlVw)
+[![Reuse login authentication | Playwright & Cucumber - Typescript | Part 12](https://ytcards.demolab.com/?id=zYUZujrURq0&title=Reuse+login+authentication+%7C+Playwright+%26+Cucumber+-+Typescript+%7C+Part+12&lang=en&timestamp=1688208121&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "Reuse login authentication | Playwright & Cucumber - Typescript | Part 12")](https://www.youtube.com/watch?v=zYUZujrURq0)
+[![Pass Tags from CLI | Playwright & Cucumber - Typescript | Part 11](https://ytcards.demolab.com/?id=nlYf3M0z6UM&title=Pass+Tags+from+CLI+%7C+Playwright+%26+Cucumber+-+Typescript+%7C+Part+11&lang=en&timestamp=1688197895&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "Pass Tags from CLI | Playwright & Cucumber - Typescript | Part 11")](https://www.youtube.com/watch?v=nlYf3M0z6UM)
+<!-- END YOUTUBE-CARDS -->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mh8633b&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mh8633b&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mh8633b&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[<img align="left" alt="muneebportfolio.herokuapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!-- [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-<!-- [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg" />][github]
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mh8633b&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-<br />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Languages and Tools:
+---
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/letcode) 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="30px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
-<!-- <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" /> -->
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Firebase" width="26px" src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" />
-<img align="left" alt="Firebase" width="26px" src="https://img.pngio.com/django-web-development-web-framework-python-software-framework-django-png-728_550.jpg" />
-<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/452/flutter.png" />
-
-<br />
-<br />
-<!-- 
-<img class="lazy2" src="https://img.pngio.com/django-web-development-web-framework-python-software-framework-django-png-728_550.jpg" data-original="https://img.pngio.com/django-web-development-web-framework-python-software-framework-django-png-728_550.jpg" alt="Django Web development Web framework Python Software framework ..."> -->
-
-<!-- <details>
-  <summary>:zap: Recent GitHub Activity</summary>
   
-1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-2. 🎉 Merged PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. 💪 Opened PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-
-</details> -->
-
-<!-- <details> -->
-  <!-- <summary>:zap: GitHub Stats</summary> -->
-### GitHub Stats:
-
-
-  <img align="left" alt="monybluex's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mh8633b&show_icons=true&hide_border=true" />
-
-<!-- </details> -->
-
-[website]: https://muneebportfolio.herokuapp.com
-<!-- [course]: http://vsCodeHero.com -->
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://www.linkedin.com/in/muneeb-hassan-26bb37130
-[github]: https://github.com/monybluex
- 
-<!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt -->
-<!-- [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B -->
-<!-- [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4 -->
-<!-- [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
